@@ -78,7 +78,7 @@ body {
 
 .descricao__titulo {
     font-weight: 700;
-    font-size: 40px;
+    font-size: 48px;
     color: var(--branco-principal);
     margin-bottom: 0.1em;
 }
@@ -108,7 +108,7 @@ body {
 }
 
 .dispositivos__titulo {
-    font-size: 32px;
+    font-size: 48px;
     color: var(--branco-principal);
 }
 
@@ -119,7 +119,7 @@ body {
 
 .lista__item {
     font-size: 32px;
-    color: var(--branco-principal)
+    color: var(--branco-principal);
 }
 
 .rodape__lista {
